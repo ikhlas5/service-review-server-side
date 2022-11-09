@@ -2,37 +2,49 @@
     {
         "img":"https://media.istockphoto.com/id/1335303339/photo/wedding-photographer.jpg?s=612x612&w=is&k=20&c=_vyQO9CviDNx_I2jaBkB37gUB8-EgnLmXrIXsgBwNXE=",
         "service_name":"Ugur Karakoc",
-        "text":"Wedding photographer with a profesional camera shooting bride and groom"
+        "text":"Wedding photographer with a profesional camera shooting bride and groom.A wedding is a ceremony where two people are united in marriage. Wedding traditions and customs vary greatly between cultures, ethnic groups, religions, countries, and social classes. Most wedding ceremonies involve an exchange of marriage vows by a couple, presentation of a gift (offering, rings, symbolic item, flowers, money, dress), and a public proclamation of marriage by an authority figure or celebrant. Special wedding garments are often worn, and the ceremony is sometimes followed by a wedding reception. Music, poetry, prayers, or readings from religious texts or literature are also commonly incorporated into the ceremony, as well as superstitious customs.",
+        "price":"450",
+        "ratting":"4.5"
 
     },
     {
         "img":"https://media.istockphoto.com/id/588266922/photo/photographer-taking-picture-of-newlywed-couple.jpg?s=612x612&w=is&k=20&c=aCSX4K2JxQLUrS_zsAXY16fzWWBF-j2KaqGZTojYqfw=",
         "service_name":"simonkr",
-        "text":"Photographer taking picture of bride and groom as they leave church."
+        "text":"Photographer taking picture of bride and groom as they leave church.Some cultures have adopted the traditional Western custom of the white wedding, in which a bride wears a white wedding dress and veil. This tradition was popularized through the marriage of Queen Victoria.[1] Some say Victoria's choice of a white gown may have simply been a sign of extravagance, but may have also been influenced by the values she held which emphasized sexual purity",
+        "price":"400",
+        "ratting":"4.0"
 
     },
     {
         "img":"https://media.istockphoto.com/id/606640632/photo/photographer-in-action.jpg?s=612x612&w=is&k=20&c=mG3c5saD83hqWBfdoEud4YUsh3Rsb01K7YIXCDQijj0=",
         "service_name":"woraput",
-        "text":"a wedding photographer takes pictures of the bride and groom in nature, the photographer in action"
+        "text":"a wedding photographer takes pictures of the bride and groom in nature, the photographer in action.The use of a wedding ring has long been part of religious weddings in Europe and America, but the origin of the tradition is unclear. One possibility is the Roman belief in the Vena amoris, which was believed to be a blood vessel that ran from the fourth finger (ring finger) directly to the heart. Thus, when a couple wore rings on this finger, their hearts were connected. Historian Vicki Howard points out that the belief in the ancient quality of the practice is most likely a modern invention.[3] In the United States of America, a groom's wedding band has not appeared until the early 20th century,[4] while in Europe it has been part of the tradition since the ancient Romans, as witnessed by the jurist Gaius.",
+        "price":"350",
+        "ratting":"3.5"
 
     },
     {
         "img":"https://media.istockphoto.com/id/802955798/photo/wedding-photographer-takes-pictures-of-bride-and-groom-in-nature-fine-art-photo.jpg?s=612x612&w=is&k=20&c=hQ3crxVv_VJWlBNKacby4rK-Z6PpQfR3e6e8pe0cOxc=",
         "service_name":"Kobus Louw",
-        "text":"Wedding Videographer Camera Operator is Shooting Bridal Event in the Fireworks"
+        "text":"Wedding Videographer Camera Operator is Shooting Bridal Event in the Fireworks.The exit from the wedding ceremony is also called the send off, and often includes traditional practices, such as the newlyweds and the wedding party bowing and kissing the knees of the elders in Ethiopian weddings. The send off often includes throwing rice (a symbol of prosperity and fertility)[5] or other seeds at the newlyweds in most of the Western world,[6] as well as for example India[5] and Malaysia.[7] Despite fears of the opposite, the use of uncooked rice for this purpose is not harmful to birds.[8] Shoe tossing in place of rice has also been used in several cultures",
+        "price":"250",
+        "ratting":"4.5"
 
     },
     {
         "img":"https://media.istockphoto.com/id/622035422/photo/shooting-a-wedding-with-a-vintage-camera.jpg?s=612x612&w=is&k=20&c=j4BdgxAnY6kT9wY_SQoVuex5UMDIO07A4jQ_JBsiCik=",
         "service_name":"Valery Kudryavtsev",
-        "text":"Family, couple and wedding portrait with flowers as photographer with a bouquet at a lake field nature event. Happy mother, children and bride smile with lovely groom in marriage celebration together"
+        "text":"Family, couple and wedding portrait with flowers as photographer with a bouquet at a lake field nature event. Happy mother, children and bride smile with lovely groom in marriage celebration together.A wedding is a ceremony where two people are united in marriage. Wedding traditions and customs vary greatly between cultures, ethnic groups, religions, countries, and social classes.",
+        "price":"430",
+        "ratting":"3.0"
 
     },
     {
         "img":"https://media.istockphoto.com/id/121119254/photo/woman-photographer-photographing-diverse-wedding-couple.jpg?s=612x612&w=is&k=20&c=ky--ImBykYi7NQMgkQP3Sx_a3VVRYQs_uRJrxOksl1Q=",
         "service_name":"EMPPhotography",
-        "text":"Photographer trying to photograph a wedding couple outdoors on the beach."
+        "text":"Photographer trying to photograph a wedding couple outdoors on the beach.The wedding ceremony is often followed by wedding reception or a wedding breakfast, in which the rituals may include speeches from a groom, best man, father of a bride and possibly a bride,[10] the newlyweds' first dance as a couple, and the cutting of an elegant wedding cake. In recent years traditions have changed to include a father-daughter dance for a bride and her father, and sometimes also a mother-son dance for a groom and his mother.",
+        "price":"300",
+        "ratting":"2.5"
 
     }
 ]
